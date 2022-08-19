@@ -5,4 +5,5 @@ Titus Winters, Software Engineering at Google
 
 Comentário 
 
-Com passar do tempo, torna se necessário a agilidade e eficiência de um conjunto que de resultados e decisões.  Para isso agrega a Engenharia de software, a programação!!
+Engenharia de software engloba toda estrutura e aspcto do sofware, enquanto programação acompanha cada dinamismo da atualidade.
+A engenharia com toda sua especifica eventual passagem de tempo vem trazendo decisões cada vez mais desafiadoras, devido ao desenvolvimento tecnologico. 
