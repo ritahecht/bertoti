@@ -5,5 +5,5 @@ Titus Winters, Software Engineering at Google
 
 Comentário 
 
-Engenharia de software engloba toda estrutura e aspcto do sofware, enquanto programação acompanha cada dinamismo da atualidade.
-A engenharia com toda sua especifica eventual passagem de tempo vem trazendo decisões cada vez mais desafiadoras, devido ao desenvolvimento tecnologico. 
+O principal destaque, é a clara distinção entre as práticas de programação e engenharia. De forma sistêmica, são apresentadas técnicas e padrões para que bases de código sejam mantidas e evoluídas ao longo do tempo, mesclando tanto aspectos técnicos como comportamentais. Desafiado profissionais a tomadas de desições cada vez mais desafiadoras e complexas. 
+Atualmente, os engenheiros de software precisam de saber não só como programar de forma eficaz, mas também como desenvolver as práticas de engenharia adequadas para tornar a sua base de código sustentável e saudável.
