@@ -19,15 +19,21 @@ Cadastro de pedidos de suporte//Defeito
 
 Requisitos funcionais
 
-*cadastro do cliente 
+*cadastro do cliente
+
 *meio de resposta de e-mails//telone//rede social
+
 *Tipo de problema.
+
 *retorno em ate 2 hras com alerta caso ultrapasse.
 
  
  Não funcionais
 
 *Ambiente de consulta de defeitos e resolução
+
 *relatorio de retorno de cada funcionario
+
 *item de avaliaçao de satisfaçao 
+
 *relatorio de defeitos por topicos 
