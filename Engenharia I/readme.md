@@ -32,10 +32,10 @@ Requisitos funcionais
  
  Não funcionais
 
-*Ambiente de consulta de erros e resolução
+* Ambiente de consulta de erros e resolução
 
-*relatorio de retorno de cada suporte
+* relatorio de retorno de cada suporte
 
-*item de avaliaçao de satisfaçao 
+* item de avaliaçao de satisfaçao 
 
-*relatorio de frequencia de erros 
+* relatorio de frequencia de erros 
