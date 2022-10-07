@@ -13,27 +13,29 @@ Atualmente, os engenheiros de software precisam de saber não só como programar
 
 Atividade de Requisitos
 
-Empresa de suporte. Criar canal de auto suporte!!
+Software de suporte de agendamento clinico!!
 
-Cadastro de pedidos de suporte//Defeito
+Erro Cadastro agendamento suporte//Erro
 
 Requisitos funcionais
 
-*cadastro do cliente
+* auto suporte de agendamento 
 
-*meio de resposta de e-mails//telone//rede social
+* Campo de pesquisa 
 
-*Tipo de problema.
+* meio de resposta de e-mails//telone//rede social
 
-*retorno em ate 2 hras com alerta caso ultrapasse.
+* Tipo de problema.
+
+* retorno em ate 2 hras com alerta caso ultrapasse.
 
  
  Não funcionais
 
-*Ambiente de consulta de defeitos e resolução
+*Ambiente de consulta de erros e resolução
 
-*relatorio de retorno de cada funcionario
+*relatorio de retorno de cada suporte
 
 *item de avaliaçao de satisfaçao 
 
-*relatorio de defeitos por topicos 
+*relatorio de frequencia de erros 
