@@ -23,7 +23,7 @@ Requisitos funcionais
 
 * Campo de pesquisa 
 
-* meio de resposta de e-mails//telone//rede social
+* meio de resposta de e-mails//telone
 
 * Tipo de problema.
 
