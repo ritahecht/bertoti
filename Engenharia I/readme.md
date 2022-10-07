@@ -19,22 +19,17 @@ Erro Cadastro agendamento suporte//Erro
 
 Requisitos funcionais
 
-* auto suporte de agendamento 
-
-* Campo de pesquisa 
+* suporte de agendamento 
 
 * meio de resposta de e-mails//telone
 
-* Tipo de problema.
+* Tipo de problema
 
-* retorno em ate 2 hras com alerta caso ultrapasse.
-
+* retorno em ate 10 min.
  
  Não funcionais
 
-* Ambiente de consulta de erros e resolução
-
-* relatorio de retorno de cada suporte
+* relatorio de retorno de cada suporte de agendatmento
 
 * item de avaliaçao de satisfaçao 
 
