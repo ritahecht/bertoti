@@ -34,13 +34,13 @@ Requisitos funcionais
 
 * Data e hora
 
-* Calendario de consultas 
+* Calendario de consultas marcadas
 
 * Pedido de suporte para agendamento 
  
  Não funcionais
 
-* relatorio de retorno de cada suporte de agendatmento
+* relatorio de retorno de cada suporte de agendamento
 
 * item de avaliaçao de satisfaçao 
 
