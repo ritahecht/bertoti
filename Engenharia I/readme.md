@@ -22,26 +22,27 @@ Atualmente, os engenheiros de software precisam de saber não só como programar
 
 # Projeto 
 
+### Um sistema para agendar e gerenciar consultas. 
+
 Atividade de Requisitos
-
-Software de agendamento clinico!!
-
+ 
 Requisitos funcionais
 
-* Agendamento  
-
-* Especialista 
-
-* Data e hora
+* Autonomia para marcar e desmarcar consultas 
 
 * Calendario de consultas marcadas
+ 
+* Suporte para agendamamento  
 
-* Pedido de suporte para agendamento 
+# Diagrama Casos de Uso
+ 
+![casos uso](https://user-images.githubusercontent.com/89950512/201756736-48c60ac8-5790-4186-ab9f-d66895a118f2.png)
+
  
  Não funcionais
 
-* relatorio de retorno de cada suporte de agendamento
+* Agenda de consulta Dinâmica.
 
-* item de avaliaçao de satisfaçao 
+* Relatórios.
 
-* relatorio de frequencia de erros 
+* Diminuiçao em tempo de espera para agendar. 
