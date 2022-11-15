@@ -46,3 +46,9 @@ Requisitos funcionais
 * Relatórios.
 
 * Diminuiçao em tempo de espera para agendar. 
+
+Os requisitos não funcionais são a aplicação dos requisitos funcionais, ou seja, como os requisitos funcionais serão entregues para o usuário. Para a representação dos requisitos não funcionais, foi desenvolvido a interface da plataforma de ensino apenas com o objetivo de visualização, se baseando nas heurísticas de usabilidade de Jakob Nielsen.
+
+## <p align="center"> Tela Inicial 
+
+![Wireframe - 2](https://user-images.githubusercontent.com/89950512/202026768-0d333466-eaf0-4c5c-9087-a62eade433da.png)
