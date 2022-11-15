@@ -36,7 +36,10 @@ Requisitos funcionais
 
 # Diagrama Casos de Uso
  
-![casos uso](https://user-images.githubusercontent.com/89950512/201756736-48c60ac8-5790-4186-ab9f-d66895a118f2.png)
+   
+ <img src="https://user-images.githubusercontent.com/89950512/201756736-48c60ac8-5790-4186-ab9f-d66895a118f2.png" width="500px" />
+  
+   </div>
 
  
  Não funcionais
@@ -51,4 +54,7 @@ Os requisitos não funcionais são a aplicação dos requisitos funcionais, ou s
 
 ## <p align="center"> Tela Inicial 
 
-![Wireframe - 2](https://user-images.githubusercontent.com/89950512/202026768-0d333466-eaf0-4c5c-9087-a62eade433da.png)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/89950512/202026768-0d333466-eaf0-4c5c-9087-a62eade433da.png" width="600px" />
+ </div>
+ 
