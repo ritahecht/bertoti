@@ -58,3 +58,12 @@ Os requisitos não funcionais são a aplicação dos requisitos funcionais, ou s
  <img src="https://user-images.githubusercontent.com/89950512/202026768-0d333466-eaf0-4c5c-9087-a62eade433da.png" width="600px" />
  </div>
  
+ ## <p align="center"> Tela Usuário
+ 
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/89950512/203422979-95b2f9f3-569d-47db-81aa-dfdf0b5abbd2.png" width="600px" />
+ </div>
+
+
+
+
