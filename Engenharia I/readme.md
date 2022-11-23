@@ -79,7 +79,7 @@ Os requisitos não funcionais são a aplicação dos requisitos funcionais, ou s
 ## <p align="center"> Diagrama de Classes 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/89950512/203589711-517934e1-a5fb-4e92-a250-8e68bfca1a15.jpg" widht="600px" />
+  <img src="https://user-images.githubusercontent.com/89950512/203590885-57d3f260-1b87-46ff-ac7e-15c55282f3b9.png)" widht="600px" />
   </div>
 
 
