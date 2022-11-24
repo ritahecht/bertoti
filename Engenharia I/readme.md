@@ -37,7 +37,7 @@ Requisitos funcionais
 # Diagrama Casos de Uso
  
    
- <img src="https://user-images.githubusercontent.com/89950512/201756736-48c60ac8-5790-4186-ab9f-d66895a118f2.png" width="500px" />
+ <img src="https://user-images.githubusercontent.com/89950512/203769499-38e4c4d8-a97c-4ec3-8f37-b3fe0f47f7b2.png" width="500px" />
   
    </div>
 
@@ -79,7 +79,7 @@ Os requisitos não funcionais são a aplicação dos requisitos funcionais, ou s
 ## <p align="center"> Diagrama de Classes 
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/89950512/203591786-3dc85bd5-01c4-47d4-a111-33d8800ea8f9.png" width="600px" />
+ <img src="https://user-images.githubusercontent.com/89950512/203771656-182bf12f-a7e5-4b4a-90f8-867f4cd0787d.png" width="600px" />
  </div>
 
   
