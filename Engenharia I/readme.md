@@ -79,7 +79,7 @@ Os requisitos não funcionais são a aplicação dos requisitos funcionais, ou s
 ## <p align="center"> Diagrama de Classes 
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/89950512/203884338-43bcf529-bae1-4911-875d-4d125baf107d.png" width="600px"  />
+ <img src="https://user-images.githubusercontent.com/89950512/203973463-26e00715-0462-44b6-8877-64279e008e5a.png" width="600px"  />
  </div>
 
 ## <p align="center"> Classe Paciente
