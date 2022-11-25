@@ -79,11 +79,33 @@ Os requisitos não funcionais são a aplicação dos requisitos funcionais, ou s
 ## <p align="center"> Diagrama de Classes 
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/89950512/203771656-182bf12f-a7e5-4b4a-90f8-867f4cd0787d.png" width="600px" />
+ <img src="https://user-images.githubusercontent.com/89950512/203884338-43bcf529-bae1-4911-875d-4d125baf107d.png" width="600px"  />
  </div>
 
+## <p align="center"> Classe Paciente
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/89950512/203885931-5e9baf3a-d763-4e44-b260-2e6f3ac49299.png"  width="600px"  />
+ </div>
+ 
+ ## <p align="center"> Classe Médico 
+ 
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/89950512/203885980-f47c2d90-b323-47d7-aa80-a767df98450b.png"  width="600px"  />
+  </div>
+ 
+ ## <p align="center"> Classe Agenda
+
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/89950512/203886024-d8b8b3f4-1b7c-401d-af54-127fcef45301.png"  width="600px"  />
+  </div>
   
+  ## <p align="center"> Classe Agendamento
   
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/89950512/203886105-d7471b54-cb8b-4611-b8d8-e2bf3a921bb3.png"  width="600px"  />
+  </div>  
+ 
 
 
 
