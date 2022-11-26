@@ -37,7 +37,7 @@ Requisitos funcionais
 # Diagrama Casos de Uso
  
    
- <img src="https://user-images.githubusercontent.com/89950512/203769499-38e4c4d8-a97c-4ec3-8f37-b3fe0f47f7b2.png" width="500px" />
+ <img src="https://user-images.githubusercontent.com/89950512/204066786-f49fc7ce-99f5-4d05-ba49-c77e760cdd96.png" width="600px" />
   
    </div>
 
