@@ -18,15 +18,19 @@ Os requisitos não funcionais são a aplicação dos requisitos funcionais, ou s
 
 <p> A primeira Heurística de Nielsen afirma que é necessário prover ao usuário um feedback constante do resultado das interações dele com o sistema, dentro de um tempo razoável. <p> 
 <p> Entender o estado de um sistema é sobre deixar que os usuários se sintam no controle da situação. <p>
+  
+<img src = "https://user-images.githubusercontent.com/89950512/235928102-1fa91dab-47f7-4681-b1a2-f006859303db.png"
+style="width:700px;height:400px;">
 
-![image](https://user-images.githubusercontent.com/89950512/235928102-1fa91dab-47f7-4681-b1a2-f006859303db.png)
   
   
   ## 2. Combinação entre sistema e mundo real
   
   <p>       <p>
     
-![image](https://user-images.githubusercontent.com/89950512/235941527-9d0965d2-c877-4798-b3b1-f36d9ad32481.png)
+<img src = "https://user-images.githubusercontent.com/89950512/235941527-9d0965d2-c877-4798-b3b1-f36d9ad32481.png"
+style="width:700px;height:400px;">    
+
 
     
     
