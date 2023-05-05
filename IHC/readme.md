@@ -26,11 +26,22 @@ style="width:700px;height:400px;">
   
   ## 2. Combinação entre sistema e mundo real
   
-  <p>       <p>
+  <p> A segunda heurística de Nielsen enfatiza a importância de tornar a interface do usuário do sistema coerente com as expectativas e conhecimentos dos usuários, a fim de melhorar a usabilidade e a satisfação do usuário.      <p>
     
 <img src = "https://user-images.githubusercontent.com/89950512/235941527-9d0965d2-c877-4798-b3b1-f36d9ad32481.png"
 style="width:700px;height:400px;">    
 
+    
+ ## 3. Liberdade e controle do usuário 
+    
+ <p> O poder de escolha deve estar nas mãos do usuário. <p>
+ <p> A liberdade em ambientes virtuais passou a ser pensada também de forma ética.  <p>
+    
+    
+  <img src = "https://user-images.githubusercontent.com/89950512/236580881-8626cffa-9f1e-4699-8523-0ca4107bf40a.png" style="width:700px;height:400px;">
+
+  ## 4. Consistências e Padrões 
+    
 
     
     
