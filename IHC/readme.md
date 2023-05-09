@@ -49,6 +49,9 @@ for necessário ajustar a altura de um objecto, isso deve ser
 ser feito através de um componente IU extra (por exemplo, um cursor vertical), porque
 mover directamente o objecto na dimensão vertical pode ser
 facilmente confundido com a translação do objecto.  <p> 
+  
+<img src = "https://github.com/ritahecht/bertoti/assets/89950512/e179d459-555e-4dad-bc2b-5e5e345b6786" style="width:700px;height:400px;">
+
     
 
     
