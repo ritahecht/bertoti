@@ -1,5 +1,5 @@
 ## Heurísticas 
-dai 
+
 Os requisitos não funcionais são a aplicação dos requisitos funcionais, ou seja, como os requisitos funcionais serão entregues para o usuário. Para a representação dos requisitos não funcionais, foi desenvolvido a interface da plataforma de ensino apenas com o objetivo de visualização, se baseando nas heurísticas de usabilidade de Jakob Nielsen. 10 Heurísticas de Uso para Interface do Usuário, numerando as heurísticas de acordo com a lista abaixo:
 
 1. Visibilidade do Status do Sistema
