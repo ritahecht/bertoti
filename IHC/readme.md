@@ -41,6 +41,14 @@ style="width:700px;height:400px;">
   <img src = "https://user-images.githubusercontent.com/89950512/236580881-8626cffa-9f1e-4699-8523-0ca4107bf40a.png" style="width:700px;height:400px;">
 
   ## 4. Consistências e Padrões 
+   
+  <p> Coerência e normas. Os gestos utilizados para traduzir e
+rodar um objecto devem ser intuitivos. É particularmente importante
+indicar ao usuário como o objecto pode ser manipulado. Se
+for necessário ajustar a altura de um objecto, isso deve ser
+ser feito através de um componente IU extra (por exemplo, um cursor vertical), porque
+mover directamente o objecto na dimensão vertical pode ser
+facilmente confundido com a translação do objecto.  <p> 
     
 
     
