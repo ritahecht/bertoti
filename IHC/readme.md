@@ -78,7 +78,14 @@ style="width:700px;height:400px;">
   <br  align="center">Figura 6: Em sites informativos por exemplo, onde são feitos pedidos e serviços, a importância de uma interface clara.
 </div>
   
-
+ ## 7. Eficiência e flexibilidade de uso
+ 
+ <p> A interface deve atender tanto as necessidades dos usuários leigos quanto a dos experientes, os leigos precisam ter as informações bem detalhadas para conseguirem realizar uma tarefa, mas a medida que vão conhecendo a interface precisam conseguir interagir de forma mais rápida, portanto a interface deve permitir que os usuários adaptem ações frequentes de acordo com o nível em que estão. <p>
+  
+   <div align="center"> 
+ <img width="400px" src= "https://github.com/ritahecht/bertoti/assets/89950512/8d4bb0dc-b00f-48d4-ae63-f3781ef712d9">
+  <br  align="center">Figura 7: Exemplos de atalhos do teclado que o Windows oferece.
+</div>
     
     
 
