@@ -98,8 +98,24 @@ style="width:700px;height:400px;">
   <br  align="center">Figura 8: Exemplo site de vendas, para facilidade e transparência em uma venda de qualidade.
 </div>
   
+  ## 9. Ajuda a Usuários a Reconhecer, Diagnosticar, Recuperar Erros 
   
+  <p> Linguagem clara e sem códigos obscuros. Devem ajudar o usuário a entender e resolver o problema. Não devem culpar ou intimidar o usuário. <p>
+ 
+ <div align="center"> 
+ <img width="400px" src= "https://github.com/ritahecht/bertoti/assets/89950512/9d212f23-8e0a-4d68-bf9d-9e54216d3868">
+  <br  align="center">Figura 9: este exemplo possui uma ampla assistência para o usuário facilitando a solução do erro.
+</div>
+ 
     
+## 10. Ajuda e Documentação
+
+<p> Nunca sabemos quando um usuário vai precisar de um auxílio, embora as áreas de documentação e ajuda sejam as menos acessadas, elas devem estar lá, principalmente em interfaces que possuem muitas possibilidades, pois podem ajudar o usuário a resolver um problema sozinho.  <p>
+
+ <div align="center"> 
+ <img width="800px" src= "https://github.com/ritahecht/bertoti/assets/89950512/924dc93b-811d-44c5-8672-319e98ff06df">
+  <br  align="center">Figura 10: Teclas de atalho como introdução, manual ou ajuda. Facilitam ao usuário em caso de dúvidas.
+</div>
 
     
 
