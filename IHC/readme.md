@@ -21,7 +21,7 @@ Os requisitos não funcionais são a aplicação dos requisitos funcionais, ou s
   
 <img src = "https://user-images.githubusercontent.com/89950512/235928102-1fa91dab-47f7-4681-b1a2-f006859303db.png"
 style="width:700px;height:400px;">
-
+  <p> Figura 1: <p>
   
   
   ## 2. Combinação entre sistema e mundo real
@@ -29,7 +29,8 @@ style="width:700px;height:400px;">
   <p> A segunda heurística de Nielsen enfatiza a importância de tornar a interface do usuário do sistema coerente com as expectativas e conhecimentos dos usuários, a fim de melhorar a usabilidade e a satisfação do usuário.      <p>
     
 <img src = "https://user-images.githubusercontent.com/89950512/235941527-9d0965d2-c877-4798-b3b1-f36d9ad32481.png"
-style="width:700px;height:400px;">    
+style="width:700px;height:400px;">  
+     <p> Figura 2: <p>
 
     
  ## 3. Liberdade e controle do usuário 
@@ -39,18 +40,32 @@ style="width:700px;height:400px;">
     
     
   <img src = "https://user-images.githubusercontent.com/89950512/236580881-8626cffa-9f1e-4699-8523-0ca4107bf40a.png" style="width:700px;height:400px;">
-
-  ## 4. Consistências e Padrões 
+   <p> Figura 3: <p>
    
-  <p> Coerência e normas. Os gestos utilizados para traduzir e
-rodar um objecto devem ser intuitivos. É particularmente importante
-indicar ao usuário como o objecto pode ser manipulado. Se
-for necessário ajustar a altura de um objecto, isso deve ser
-ser feito através de um componente IU extra (por exemplo, um cursor vertical), porque
-mover directamente o objecto na dimensão vertical pode ser
-facilmente confundido com a translação do objecto.  <p> 
+## 4. Consistências e Padrões 
+   
+<p> Coerência e normas. Ao criar interfaces ou sistemas, manter a consistência e os padrões de UI pré-determinados são importantes para garantir que seu sistema seja previsível e tenha uma baixa curva de aprendizado.  <p> 
   
-<img src = "https://github.com/ritahecht/bertoti/assets/89950512/e179d459-555e-4dad-bc2b-5e5e345b6786" style="width:700px;height:400px;">
+<div align="center"> 
+ <img src="https://github.com/ritahecht/bertoti/assets/89950512/e179d459-555e-4dad-bc2b-5e5e345b6786" style="width:700px;height:400px;">
+  <br  align="center">Figura 4: Neste exemplo a falta de botões de saída ou de uma página inicial pode tornar difícil para o usuário entender como fechar o sistema ou voltar ao início.
+</div>
+
+
+ ## 5. Prevenção de Erros
+ 
+ <p> O erro do usuário nem sempre deve ser atribuído ao usuário, e sim ao design do sistema que pode ter facilitado o deslize. A solução não é culpar o usuário, mas sim redesenhar o sistema para ser menos suscetível a erros.  <p> 
+  
+ <div align="center"> 
+ <img src="   " style="width:700px;height:400px;">
+  <br  align="center">Figura 5: .
+</div>
+ 
+ 
+
+
+    
+    
 
     
 
