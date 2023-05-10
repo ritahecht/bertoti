@@ -57,12 +57,27 @@ style="width:700px;height:400px;">
  <p> O erro do usuário nem sempre deve ser atribuído ao usuário, e sim ao design do sistema que pode ter facilitado o deslize. A solução não é culpar o usuário, mas sim redesenhar o sistema para ser menos suscetível a erros.  <p> 
   
  <div align="center"> 
- <img src="   " style="width:700px;height:400px;">
-  <br  align="center">Figura 5: .
+ <img width="150px" src="https://github.com/ritahecht/bertoti/assets/89950512/7469ef0c-4ad8-47d8-9485-6ce98dddbf90">
+  <br  align="center">Figura 5: Neste exemplo mostra o erro de design, onde o texto explica para clicar em reservar, porém não é vizualizada opção reservar.
 </div>
  
+ <br>
  
+  <div align="center"> 
+ <img width="400px" src="https://github.com/ritahecht/bertoti/assets/89950512/d6c6ae42-593b-4a9e-b1c5-ec16592972ab">
+  <br  align="center">Figura 5.1: Neste exemplo vemos a forma clara e objetiva.
+</div>
 
+
+ ## 6. Reconhecer ao Invés de Lembrar
+ 
+  <p>  Reconhecer é melhor que lembrar Minimize a carga de memória do usuário tornando os elementos, ações e opções visíveis. O usuário não deve ter que se lembrar de informações de uma parte da interface para outra. <p>
+  
+   <div align="center"> 
+ <img width="400px" src= "https://github.com/ritahecht/bertoti/assets/89950512/fbf24897-9163-44a1-96c5-041d53142096">
+  <br  align="center">Figura 6: Em sites informativos por exemplo, onde são feitos pedidos e serviços, a importância de uma interface clara.
+</div>
+  
 
     
     
