@@ -88,6 +88,18 @@ style="width:700px;height:400px;">
 </div>
     
     
+ ## 8. Estética de Design Minimalista 
+ 
+ <p> O design da interface deve ser minimalista e o conteúdo o mais direto possível, informações que forem secundárias podem ser deixadas em segundo plano, como menus e abas.
+<p>
+  
+   <div align="center"> 
+ <img width="400px" src= "https://github.com/ritahecht/bertoti/assets/89950512/750ac6d1-9793-4b1f-abff-c1de19e19997">
+  <br  align="center">Figura 8: Exemplo site de vendas, para facilidade e transparência em uma venda de qualidade.
+</div>
+  
+  
+    
 
     
 
