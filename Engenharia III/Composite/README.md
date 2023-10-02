@@ -4,6 +4,7 @@ Composit
 
 > Código
 
+# Compras
 ```java
 import java.util.ArrayList;
 import java.util.List;
@@ -41,6 +42,7 @@ public class Compras implements Produto {
 }
 ```
 
+# Interface Produto
 
 ```java
 
