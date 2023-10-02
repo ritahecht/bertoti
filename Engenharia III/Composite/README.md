@@ -4,7 +4,7 @@ Composit
 
 > Código
 
-# Compras
+#  Classe Compras
 ```java
 import java.util.ArrayList;
 import java.util.List;
@@ -46,9 +46,21 @@ public class Compras implements Produto {
 
 ```java
 
-
+Classe Observer
+ 
+public interface Produto {
+    public void update(string);
+}
 ```
+# Classe Refrigerante
+
 ```java
+
+public class Refrigerante implements Produto {
+    public void update(String ){
+        System.out.println(": " +evento);
+    }
+}
 
 ```
 
