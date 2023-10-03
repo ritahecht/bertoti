@@ -46,25 +46,93 @@ public class Compras implements Produto {
 
 ```java
 
-Classe Observer
- 
 public interface Produto {
-    public void update(string);
+     void comprar()
+    double getValorProduto();
 }
+
 ```
 # Classe Refrigerante
 
 ```java
 
-public class Refrigerante implements Produto {
-    public void update(String ){
-        System.out.println(": " +evento);
+public class Refrigerante {
+    private String nome;
+    private char tamanho;
+    private Double valor;
+
+    public Produto(String nome, char tamanho, Double valor) {
+        this.nome = nome;
+        this.tamanho = tamanho;
+        this.valor = valor;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public char getTamanho() {
+        return tamanho;
+    }
+
+    public void setTamanho(char tamanho) {
+        this.tamanho = tamanho;
+    }
+
+    public Double getValor() {
+        return valor;
+    }
+
+    public void setValor(Double valor) {
+        this.valor = valor;
     }
 }
 
+
 ```
+# Classe Hamburguer
 
 ```java
+public class Hamburguer {
+    private String nome;
+    private char tamanho;
+    private Double valor;
+
+    public Produto(String nome, char tamanho, Double valor) {
+        this.nome = nome;
+        this.tamanho = tamanho;
+        this.valor = valor;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public char getTamanho() {
+        return tamanho;
+    }
+
+    public void setTamanho(char tamanho) {
+        this.tamanho = tamanho;
+    }
+
+    public Double getValor() {
+        return valor;
+    }
+
+    public void setValor(Double valor) {
+        this.valor = valor;
+    }
+}
+
 
 ```
 
