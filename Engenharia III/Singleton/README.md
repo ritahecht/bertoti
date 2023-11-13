@@ -1,6 +1,6 @@
 Singleton
 
-![Diagrama sem nome drawio](https://github.com/ritahecht/bertoti/assets/89950512/30060288-9632-4d13-a794-2d0754a3a04b)
+![singlton drawio](https://github.com/ritahecht/bertoti/assets/89950512/14a41c20-40cd-41dc-835c-87f23ecb2f8e)
 
 > Código
 
