@@ -1,6 +1,6 @@
 # Strategy
 
-![strategy drawio](https://github.com/ritahecht/bertoti/assets/89950512/5c2701c1-28f8-4625-8a63-5a08cf85b706)
+![strategy drawio](https://github.com/ritahecht/bertoti/assets/89950512/fa3fce22-73f4-49f2-bf48-712fa4350442)
 
 >Código
 
